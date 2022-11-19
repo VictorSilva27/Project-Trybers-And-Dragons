@@ -50,4 +50,4 @@
 </details>
 
 ## 🔰Nota do projeto🔰
-![Nota do Projeto Trybers And Dragons](TrybersAndDragons.png)
+![Nota do Projeto Trybers And Dragons](NoteTrybersAndDragons.png)
