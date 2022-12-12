@@ -1,4 +1,4 @@
-# Projeto Trybers And Dragons
+# Trybers And Dragons 🧑‍💻🐉
 
 <!-- Escrita Sobre o Projeto -->
 <details>
@@ -11,11 +11,11 @@
   <summary><strong>Como iniciar o projeto na sua máquina 💻</strong></summary>
   Primeiro clone o Projeto no seu repositório local.
   
-  * `git clone git@github.com:VictorSilva27/Project-Trybers-And-Dragons.git`
+  * `git clone git@github.com:VictorSilva27/Trybers-And-Dragons.git`
   
   Agora entra no repositório local.
   
-  * `cd Project-Trybers-And-Dragons` (Entrar no repositório clonado)
+  * `cd Trybers-And-Dragons` (Entrar no repositório clonado)
   
   > Caso você tenha Visual Studio Code, `code .`
   
@@ -49,5 +49,5 @@
   
 </details>
 
-## 🔰Nota do projeto🔰
+## Nota do Projeto ⭐⭐⭐⭐⭐
 ![Nota do Projeto Trybers And Dragons](NoteTrybersAndDragons.png)
